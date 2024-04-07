@@ -143,4 +143,7 @@
     </form> 
 </body>
 <br>
+<center>
 <%@ include file="/include/footer.jsp" %>
+</center>
+

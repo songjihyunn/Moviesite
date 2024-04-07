@@ -234,4 +234,6 @@
 </body>
 </html>
 <br>
-    <%@ include file="/include/footer.jsp" %>
+<center>
+<%@ include file="/include/footer.jsp" %>
+</center>

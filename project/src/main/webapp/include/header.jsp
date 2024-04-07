@@ -16,7 +16,7 @@
         }
         /*전체form*/
 		#bd{
-            /* display:grid; */
+            display:grid;
             justify-content: center;
         /*상단 메뉴바*/
         #bar{

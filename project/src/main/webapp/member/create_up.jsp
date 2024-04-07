@@ -4,7 +4,7 @@
 <%@ include file="../include/header.jsp" %>
 
 <%
-String sql = "SELECT * FROM member WHERE id = '" + session_id + "'pw = '" + session_pw + "'";
+String sql = "SELECT * FROM member WHERE id = '" + session_id + "'";
 Connection conn = DriverManager.getConnection(url, user, password);
 Statement stmt = conn.createStatement();
 ResultSet rs = stmt.executeQuery(sql);
