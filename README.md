@@ -33,7 +33,11 @@
     - 메인페이지 수정
 
 ## DB구성
-![image](https://github.com/user-attachments/assets/c3691522-94e8-4485-af69-422d359bc6ff)
+- member테이블
 ![image](https://github.com/user-attachments/assets/ee6a8fb8-fc4a-48fb-bfdd-b6cf7c5ecdb3)
+
+- comment 테이블
 ![image](https://github.com/user-attachments/assets/4fccd381-f770-49f2-b085-94dd78319f2a)
+
+- free, info, notice, qna 테이블
 ![image](https://github.com/user-attachments/assets/45f6caad-70fd-413d-9052-538d7376e4be)
