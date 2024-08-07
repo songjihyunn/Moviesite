@@ -2,9 +2,9 @@
 
 ## 목차
 
-- [프로젝트 소개]
-- [일정 관리]
-
+- [프로젝트 소개](#프로젝트-소개)
+- [일정 관리](#일정-관리)
+- [DB 구성](#DB-구성)
 
 ## 프로젝트 소개
 - 영화에 대한 자유로운 이야기를 나눌 수 있는 자유 게시판
@@ -33,4 +33,7 @@
     - 메인페이지 수정
 
 ## DB구성
-
+![image](https://github.com/user-attachments/assets/c3691522-94e8-4485-af69-422d359bc6ff)
+![image](https://github.com/user-attachments/assets/ee6a8fb8-fc4a-48fb-bfdd-b6cf7c5ecdb3)
+![image](https://github.com/user-attachments/assets/4fccd381-f770-49f2-b085-94dd78319f2a)
+![image](https://github.com/user-attachments/assets/45f6caad-70fd-413d-9052-538d7376e4be)
